@@ -12,3 +12,8 @@
 * Dunno. Run fine in IDA 7.5 with python 3.
 
 ## Preview
+Before:
+![bef](https://user-images.githubusercontent.com/101417270/204716235-e93733cd-5211-40ed-b68f-b43e82ec52c2.jpg)
+
+After:
+![aft](https://user-images.githubusercontent.com/101417270/204716270-6288e454-d6b1-4383-9c89-0ea503b7e9c8.jpg)
