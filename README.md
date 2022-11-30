@@ -2,6 +2,7 @@
 * Plugin search for mov --> bextr pairs and create easy to read operation as a comment. You can actually get similar output in decompiler, but sometime is just easier to read disassembly.
 
 ## Usage
+* Copy bextr_cmt.py to ida plugins directory.
 * Push F10 on line that bextr instruction is.
 * To resolve all bextr instructions in database, comment single_bextr(), and uncomment multi_bextr(), Then reopen ida to reload plugin. Now push F10, and wait patiently.
 
